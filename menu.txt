@@ -1,0 +1,8 @@
+# menu.txt 생성
+echo "=== 오늘 점심 메뉴 ===" > menu.txt
+echo "1. 김치찌개" >> menu.txt
+
+# 커밋 및 푸시
+git add menu.txt
+git commit -m "Docs: 초기 메뉴 작성"
+git push origin main
