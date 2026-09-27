@@ -6,3 +6,12 @@ echo "1. 김치찌개" >> menu.txt
 git add menu.txt
 git commit -m "Docs: 초기 메뉴 작성"
 git push origin main
+
+
+====돈까스=====
+ㅎ
+ㅎ
+ㅎ
+ㅎ
+
+ㅎ 
